@@ -9,6 +9,6 @@ I conducted research under Professor Nikola Banovic at the University of Michiga
 Recently, I conducted survival analysis and prognostic biomarker research under Professor Paul Boutros at UCLA within the Bruins-in-Genomics summer research experience. 
 
 <!-- Insert your photo -->
-<img src="/Users/amaanjsattar/Desktop/IMG_8921.jpeg" alt="Your Photo" style="width:300px;height:auto;">
+<img src="IMG_8921.jpeg" alt="Your Photo" style="width:300px;height:auto;">
 
 &copy; 2023 Amaan | [GitHub](https://github.com/amaanjsattar)
