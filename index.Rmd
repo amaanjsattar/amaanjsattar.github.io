@@ -1,19 +1,24 @@
 ---
-title: "Amaan's Academic Portfolio in Biostatistics"
+title: "Amaan Jogia-Sattar"
 output:
   html_document:
     theme: cosmo
     toc: true
 ---
 
-# Welcome to My Academic Website
-Aspiring Biostatistician | Undergraduate Student
-
-[About Me](#about-me) | [Research](#research) | [Projects](#projects) | [Contact](#contact)
-
 ## About Me {#about-me}
 
-Hello! I'm a rising senior at UC Berkeley studying Public Health (Concentration in Biostatistics) and Data Science. As an aspiring biostatistician, my research interests include model explainability, analysis of high-throughput NGS data, causal inference, and infectious disease epidemiology. 
+I am an incoming MS/PhD student in Biostatistics at the UCLA Fielding School of Public Health. My current research interests lie in chronic disease epidemiology, precision health/biomarker discovery, and clinical trial design. 
+
+I recently graduated from UC Berkeley (go bears!) with a BA in Public Health and a minor in Data Science. As an undergraduate, I led research at the UC Berkeley Disability Lab under the supervision of Professor Karen Nakamura. 
+
+I conducted research under Professor Nikola Banovic at the University of Michigan within the 2022 Big Data Summer Institute. 
+
+Recently, I conducted survival analysis and prognostic biomarker research under Professor Paul Boutros at UCLA within the Bruins-in-Genomics summer research experience. 
+
+
+
+
 
 ![Your Photo](your-photo.jpg) <!-- Insert your photo -->
 
