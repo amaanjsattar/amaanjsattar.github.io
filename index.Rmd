@@ -1,5 +1,40 @@
 ---
-title: "Amaan's Website"
+title: "Amaan's Academic Portfolio in Biostatistics"
+output:
+  html_document:
+    theme: cosmo
+    toc: true
 ---
 
-Hello, World!
+# Welcome to My Academic Website
+Aspiring Biostatistician | Undergraduate Student
+
+[About Me](#about-me) | [Research](#research) | [Projects](#projects) | [Contact](#contact)
+
+## About Me {#about-me}
+
+Hello! I'm a rising senior at UC Berkeley studying Public Health (Concentration in Biostatistics) and Data Science. As an aspiring biostatistician, my research interests include model explainability, analysis of high-throughput NGS data, causal inference, and infectious disease epidemiology. 
+
+![Your Photo](your-photo.jpg) <!-- Insert your photo -->
+
+## Research {#research}
+
+- **Title of Research Project 1**
+  - *Description*: Briefly describe the project, its objectives, and your role.
+  - *Publication*: Link to any published papers or reports.
+  - ![Research Image 1](research-image1.jpg) <!-- Insert an image related to the research -->
+
+## Projects {#projects}
+
+- **Project Title 1**
+  - *Description*: Provide a summary of the project, including your contributions.
+  - *Link*: If applicable, link to the project or its code on GitHub.
+
+## Contact {#contact}
+
+- *Email*: [amaanjsattar@berkeley.edu](mailto:amaanjsattar@berkeley.edu)
+- *LinkedIn*: [LinkedIn Profile](https://www.linkedin.com/in/amaanjsattar/)
+
+---
+
+&copy; 2023 Amaan | [GitHub](https://github.com/amaanjsattar)
