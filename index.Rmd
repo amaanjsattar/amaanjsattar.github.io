@@ -1,12 +1,12 @@
 ## About Me {#about-me}
 
-I am an incoming MS/PhD student in Biostatistics at the UCLA Fielding School of Public Health. My current research interests lie in chronic disease epidemiology, precision health/biomarker discovery, and clinical trial design. 
+I am an incoming MS/PhD student in Biostatistics at the [UCLA Fielding School of Public Health](https://www.ph.ucla.edu/). My current research interests lie in chronic disease epidemiology, precision health/biomarker discovery, and clinical trial design.
 
-I recently graduated from UC Berkeley (go bears!) with a BA in Public Health and a minor in Data Science. As an undergraduate, I led research at the UC Berkeley Disability Lab under the supervision of Professor Karen Nakamura. 
+I recently graduated from UC Berkeley (go bears!) with a BA in Public Health and a minor in Data Science. As an undergraduate, I led research at the [UC Berkeley Disability Lab](https://disabilitylab.studentorg.berkeley.edu/) under the supervision of [Professor Karen Nakamura](http://www.disability.jp/nakamura/).
 
-I conducted research under Professor Nikola Banovic at the University of Michigan within the 2022 Big Data Summer Institute. 
+I conducted research under [Professor Nikola Banovic](https://midas.umich.edu/faculty-member/nikola-banovic/) at the University of Michigan within the 2022 [Big Data Summer Institute](https://sph.umich.edu/bdsi/index.html).
 
-Recently, I conducted survival analysis and prognostic biomarker research under Professor Paul Boutros at UCLA within the Bruins-in-Genomics summer research experience. 
+Recently, I conducted survival analysis and prognostic biomarker research under [Professor Paul Boutros](https://bioscience.ucla.edu/people/paul-c-boutros/) at UCLA within the [Bruins-in-Genomics Summer (BIG Summer)](https://qcb.ucla.edu/big-summer/) research experience.
 
 <!-- Insert your photo -->
 <img src="IMG_8921.jpeg" alt="Photo" style="width:300px;height:auto;">
