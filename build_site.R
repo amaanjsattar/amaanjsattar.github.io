@@ -6,3 +6,4 @@ setwd('/Users/amaanjsattar/Desktop/Website/amaanjsattar.github.io')
 
 #render your sweet site. 
 rmarkdown::render_site()
+
