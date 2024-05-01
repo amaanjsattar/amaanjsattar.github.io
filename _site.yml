@@ -11,5 +11,5 @@ navbar:
       href: cv.html
 output:
     html_document:
-        theme: spacelab
+        theme: cerulean
     
